@@ -1,0 +1,76 @@
+﻿Name,Link
+深度学习实践:计算机视觉,
+Learning Representations via Graph-structured Networks,https://xiaolonw.github.io/graphnnv2/
+CVPR 2020华人一作包揽最佳论文、最佳学生论文,https://zhuanlan.zhihu.com/p/148875581
+Implicit Geometric Regularization for Learning Shapes,https://arxiv.org/pdf/2002.10099.pdf
+"Implicit Neural Representations with Periodic
+Activation Functions",https://arxiv.org/pdf/2006.09661.pdf
+"LatentFusion: End-to-End Differentiable Reconstruction and Rendering
+for Unseen Object Pose Estimation",https://arxiv.org/pdf/1912.00416.pdf
+"A Review on Object Pose Recovery: from 3D
+Bounding Box Detectors to Full 6D Pose Estimators",https://arxiv.org/pdf/2001.10609.pdf
+KFNet: Learning Temporal Camera Relocalization using Kalman Filtering,https://arxiv.org/pdf/2003.10629.pdf
+Deep Global Registration,https://node1.chrischoy.org/data/publications/dgr/DGR.pdf
+SAL: Sign Agnostic Learning of Shapes from Raw Data,https://arxiv.org/abs/1911.10414
+SDFDiff: Differentiable Rendering of Signed Distance Fields for 3D Shape Optimization,https://yuejiang-nj.github.io/papers/CVPR2020_SDFDiff/project_page.html
+FroDO: From Detections to 3D Objects,https://arxiv.org/abs/2005.05125
+SuperGlue:Learning Feature Matching with Graph Neural Networks,https://arxiv.org/abs/1911.11763
+目标检测的过去、现在与将来,https://www.bilibili.com/video/BV1154y1v7BZ
+Adversarial Generation of Continuous Implicit Shape Representations,https://arxiv.org/abs/2002.00349
+Curriculum DeepSDF,https://arxiv.org/pdf/2003.08593.pdf
+"Fully Convolutional Geometric Features for Category-level Object
+Alignment",http://erl.ucsd.edu/ref/Feng_CategoryAlignment_IROS20.pdf
+Manifold Learning in Quotient Spaces,https://openaccess.thecvf.com/content_cvpr_2018/papers/Mehr_Manifold_Learning_in_CVPR_2018_paper.pdf
+Generalized Autoencoder for Volumetric Shape Generation,https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Guan_Generalized_Autoencoder_for_Volumetric_Shape_Generation_CVPRW_2020_paper.pdf
+SAMP: Shape and Motion Priors for 4D Vehicle Reconstruction,https://www.vision.rwth-aachen.de/media/papers/EngelmannWACV17_x8euNDK.pdf
+深度学习框架PyTorch：入门与实践,https://github.com/chenyuntc/pytorch-book
+YOLOv4: Optimal Speed and Accuracy of Object Detection,https://arxiv.org/abs/2004.10934
+Self6D: Self-Supervised Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/Self6D-Diff-Renderer
+Machine Learning Optimized Systems,https://remziarpacidusseau.wixsite.com/mlos
+HybridPose: 6D Object Pose Estimation under Hybrid Representations,https://github.com/chensong1995/HybridPose
+PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation,https://github.com/zju3dv/pvnet
+"Learning Monocular 3D Vehicle Detection
+without 3D Bounding Box Labels",https://lukaskoestler.com/ldwl
+"Deep Shells: Unsupervised Shape Correspondence
+with Optimal Transport",https://arxiv.org/pdf/2010.15261.pdf
+Conditional Link Prediction of Category-Implicit Keypoint Detection,https://arxiv.org/pdf/2011.14462.pdf
+RfD-Net: Point Scene Understanding by Semantic Instance Reconstruction,https://arxiv.org/pdf/2011.14744.pdf
+Vid2CAD: CAD Model Alignment using Multi-View Constraints from Videos,https://arxiv.org/pdf/2012.04641.pdf
+"MO-LTR: Multiple Object Localization, Tracking and Reconstruction
+from Monocular RGB Videos",https://arxiv.org/pdf/2012.05360.pdf
+Accelerating 3D Deep Learning with PyTorch3D,https://arxiv.org/pdf/2007.08501.pdf
+Learning 3D Reconstruction in Function Space (Long Version),https://www.bilibili.com/video/BV1Mp4y167RM
+From Points to Multi-Object 3D Reconstruction,https://arxiv.org/pdf/2012.11575.pdf
+DualSDF: Semantic Shape Manipulation using a Two-Level Representation,https://openaccess.thecvf.com/content_CVPR_2020/papers/Hao_DualSDF_Semantic_Shape_Manipulation_Using_a_Two-Level_Representation_CVPR_2020_paper.pdf
+CornerNet-Lite: Efficient Keypoint-Based Object Detection,https://arxiv.org/pdf/1904.08900.pdf
+Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes,https://arxiv.org/pdf/2101.10994.pdf
+DeformSyncNet: Deformation Transfer via Synchronized Shape Deformation Spaces,https://arxiv.org/pdf/2009.01456.pdf
+Deformation-Aware 3D Model Embedding and Retrieval,https://deformscan2cad.github.io/
+Ellipse R-CNN: Learning to Infer Elliptical Object from Clustering and Occlusion,https://arxiv.org/pdf/2001.11584.pdf
+DIST: Rendering Deep Implicit Signed Distance Function with Differentiable Sphere Tracing,http://b1ueber2y.me/projects/DIST-Renderer/
+Category Level Object Pose Estimation via Neural Analysis-by-Synthesis,https://arxiv.org/pdf/2008.08145.pdf
+DeepVoxels: Learning Persistent 3D Feature Embeddings,https://arxiv.org/pdf/1812.01024.pdf
+Differentiable Volume Rendering using Signed Distance Functions,https://dspace.mit.edu/bitstream/handle/1721.1/124253/1145123039-MIT.pdf?sequence=1&isAllowed=y
+Signed Distance Fields for Rigid and Deformable 3D Reconstruction,http://mediatum.ub.tum.de/doc/1445794/654296.pdf
+POINTVOTENET: ACCURATE OBJECT DETECTION AND 6 DOF POSE ESTIMATION IN POINT CLOUDS,https://arxiv.org/pdf/1912.09057.pdf
+SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation,https://arxiv.org/pdf/1612.00606.pdf
+KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations,https://arxiv.org/pdf/2002.12687.pdf
+Learning deep network for detecting 3D object keypoints and 6D poses,https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Learning_Deep_Network_for_Detecting_3D_Object_Keypoints_and_6D_CVPR_2020_paper.pdf
+Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency,https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf
+SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation,
+Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets,http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700545.pdf
+PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation,https://arxiv.org/pdf/1911.04231.pdf
+PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection,https://arxiv.org/pdf/1912.13192.pdf
+Iterative Transformer Network for 3D Point Cloud,https://arxiv.org/pdf/1811.11209.pdf
+PCRNet: Point Cloud Registration Network using PointNet Encoding,https://arxiv.org/pdf/1908.07906.pdf
+Learning 3D Shape Completion under Weak Supervision,https://arxiv.org/pdf/1805.07290.pdf
+NEMO: NEURAL MESH MODELS OF CONTRASTIVE FEATURES FOR ROBUST 3D POSE ESTIMATION,https://arxiv.org/pdf/2101.12378.pdf
+Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations,https://arxiv.org/pdf/2012.06434.pdf
+Neural Cages for Detail-Preserving 3D Deformations,https://igl.ethz.ch/projects/neural-cage/06035.pdf
+Local Implicit Grid Representations for 3D Scenes,https://geometry.stanford.edu/papers/jsmhnf-lligrf3s-20/jsmhnf-lligrf3s-20.pdf
+GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/GDR-Net
+NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel View Synthesis,https://arxiv.org/pdf/2103.14910.pdf
+DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features,https://arxiv.org/abs/2008.05416
+GCNv2: Efficient Correspondence Prediction for Real-Time SLAM,https://arxiv.org/pdf/1902.11046.pdf
+Geometric foundations of Deep Learning,https://geometricdeeplearning.com/
+Dive into Deep Learning,https://d2l.ai/

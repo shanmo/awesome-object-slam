@@ -1,11 +1,9 @@
-## Semantic SLAM paper readling list 
+## Object SLAM paper readling list 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo contains the reading list related to object SLAM, including 
 
-- [Object SLAM](https://github.com/moshanATucsd/Semantic-SLAM-paper-reading/blob/main/Object_SLAM.csv) 
-- [Deep learning](https://github.com/moshanATucsd/Semantic-SLAM-paper-reading/blob/main/Deep_learning.csv) 
+- [SLAM related papers](https://github.com/shanmo/awesome-object-slam/blob/main/SLAM.csv) 
+- [Learning related papers](https://github.com/shanmo/awesome-object-slam/blob/main/Learning.csv) 
 
-## Notes 
-
-- Some reading list content is ported from `Notion` and are outdated 
-# awesome-object-slam

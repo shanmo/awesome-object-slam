@@ -1,0 +1,114 @@
+﻿Name,Link
+"Joint Workshop on Long-Term Visual Localization, Visual Odometry and Geometric and Learning-based SLAM",https://sites.google.com/view/vislocslamcvpr2020/home
+In Perfect Shape: Certifiably Optimal 3D Shape Reconstruction from 2D Landmarks,https://arxiv.org/pdf/1911.11924.pdf
+SLAM中线特征的参数化和求导,https://zhuanlan.zhihu.com/p/65674067
+SLAM中面特征的参数化,https://zhuanlan.zhihu.com/p/71924149
+What can LARVIO do? ——单目视觉惯性里程计LARVIO介绍,https://zhuanlan.zhihu.com/p/142714515  
+Accurate Monocular Visual-inertial SLAM using a Map-assisted EKF Approach,https://arxiv.org/pdf/1706.03648.pdf
+"A Linear-Complexity EKF for
+Visual-Inertial Navigation with Loop Closures",https://ieeexplore.ieee.org/document/8793836
+"Comparison of State Marginalization Techniques
+in Visual Inertial Navigation Filters",https://research.library.mun.ca/14086/1/thesis.pdf
+"A Square Root Inverse Filter for Efficient
+Vision-aided Inertial Navigation on Mobile Devices",http://www.roboticsproceedings.org/rss11/p08.pdf
+"MIT A 2020 Vision of Linear Algebra, Spring 2020",https://www.youtube.com/watch?v=azzrfdysfI0&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek&index=2
+"A Survey on Deep Learning for Localization and Mapping:
+Towards the Age of Spatial Machine Intelligence",https://128.84.21.199/pdf/2006.12567.pdf
+Visual Inertial Odometry with Pentafocal Geometric Constraints,https://link.springer.com/content/pdf/10.1007/s12555-017-0200-5.pdf
+Exploiting Feature Confidence for Forward Motion Estimation,https://arxiv.org/pdf/1704.07145.pdf
+Parallax Bundle Adjustment on Manifold with Convexified Initialization,https://arxiv.org/pdf/1807.03556.pdf
+Towards Observable Urban Visual SLAM,https://opus.lib.uts.edu.au/bitstream/10453/140553/2/02whole.pdf
+VIO中的IMU数值积分与IMU预积分,https://zhuanlan.zhihu.com/p/107032156
+"Monocular Visual Inertial Odometry
+on a Mobile Device",https://vision.in.tum.de/_media/spezial/bib/shelley14msc.pdf
+"Visual-Inertial Odometry for
+Autonomous Ground
+Vehicles",https://www.diva-portal.org/smash/get/diva2:1155019/FULLTEXT01.pdf
+"Monocular Visual-Inertial Odometry with
+an Unbiased Linear System Model and Robust
+Feature Tracking Front-End",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6515200/pdf/sensors-19-01941.pdf
+Quaternion kinematics for the error-state Kalman filter,http://www.iri.upc.edu/people/jsola/JoanSola/objectes/notes/kinematics.pdf
+ORB-SLAM3,https://arxiv.org/pdf/2007.11898.pdf
+Direct Sparse Mapping,https://arxiv.org/abs/1904.06577
+BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning,https://arxiv.org/pdf/1805.04687.pdf
+Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments,https://arxiv.org/abs/2004.05303
+"A Novel Feedback Mechanism-Based
+Stereo Visual-Inertial SLAM",https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8863900
+"Shonan Rotation Averaging:
+Global Optimality by Surfing SO(p)
+n",https://arxiv.org/pdf/2008.02737.pdf
+"SDF-2-SDF:
+Highly Accurate 3D Object Reconstruction",http://campar.in.tum.de/pub/slavcheva2016eccv/slavcheva2016eccv.pdf
+SMSCKF理论代码解析,https://mp.weixin.qq.com/s/w8aDGX14sD9fjM4-EffcOg
+VIO from scratch ,https://zhuanlan.zhihu.com/vSLAM-document
+An Efﬁcient Schmidt-EKF for 3D Visual-Inertial SLAM,http://openaccess.thecvf.com/content_CVPR_2019/papers/Geneva_An_Efficient_Schmidt-EKF_for_3D_Visual-Inertial_SLAM_CVPR_2019_paper.pdf
+黄国权老师讲VIO,https://www.bilibili.com/video/BV1Nk4y127qX?p=11
+ProSLAM: Graph SLAM from a Programmer’s Perspective,https://arxiv.org/pdf/1709.04377.pdf
+Line Flow Based SLAM,https://arxiv.org/pdf/2009.09972.pdf
+"EAO-SLAM: Monocular Semi-Dense Object SLAM
+Based on Ensemble Data Association",https://arxiv.org/pdf/2004.12730.pdf
+Unscented Kalman Filter,https://www.haidynmcleod.com/unscented-kalman-filter
+"Exactly Sparse Gaussian Variational
+Inference with Application to
+Derivative-Free Batch Nonlinear State
+Estimation",https://arxiv.org/pdf/1911.08333.pdf
+"SelfVIO: Self-Supervised Deep Monocular
+Visual-Inertial Odometry and Depth Estimation",https://arxiv.org/pdf/1911.09968.pdf
+"SimVODIS: Simultaneous Visual Odometry,
+Object Detection, and Instance Segmentation",https://github.com/Uehwan/SimVODIS
+Privacy Preserving Structure-from-Motion,https://cvg.ethz.ch/research/privacy-preserving-sfm/
+"SLAM in the Field: An Evaluation of Monocular Mapping and Localization on
+Challenging Dynamic Agricultural Environment",https://arxiv.org/pdf/2011.01122.pdf
+"From Points to Planes - Adding Planar Constraints to Monocular
+SLAM Factor Graphs",http://ras.papercept.net/images/temp/IROS/files/0359.pdf
+RISE-SLAM: A Resource-aware Inverse Schmidt Estimator for SLAM,http://mars.cs.umn.edu/papers/Schmidt_IROS_2019.pdf
+Compositional Scalable Object SLAM,https://arxiv.org/pdf/2011.02658.pdf
+Robotics Today - A Series of Technical Talks,https://roboticstoday.github.io/index.html
+LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization,https://vision.in.tum.de/research/vslam/lm-reloc?redirect=1
+Real-Time Temporal and Rotational Calibration of Heterogeneous Sensors Using Motion Correlation Analysis,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9271875&casa_token=FELVFABtlcgAAAAA:BjsErtqeb7YvqMKPFButK96S-MfC_vGfcgnIKNmjPnEz63NTMhGO2H36BUtd8d0YLn8M9D2W9A&tag=1
+"Online IMU Intrinsic Calibration:
+Is It Necessary?",http://www.roboticsproceedings.org/rss16/p026.pdf
+xVIO: A Range-Visual-Inertial Odometry Framework,https://arxiv.org/pdf/2010.06677.pdf
+CodeVIO: Visual-Inertial Odometry with Learned Optimizable Dense Depth,https://arxiv.org/pdf/2012.10133.pdf
+Dynamic SLAM: The Need For Speed,https://arxiv.org/pdf/2002.08584.pdf
+"Perspective-2-Ellipsoid: Bridging the Gap Between
+Object Detections and 6-DoF Camera Pose",https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9127873&casa_token=2Q4Df0JHc24AAAAA:0cgrdvLIO5eZY-dEunOH2Mb9wviRQlhOkXkxDX9WfDAIrM2oV72-8TH5gjQpzzpzQELMQztERg&tag=1
+Probabilistic Structure from Motion with Objects (PSfMO),https://openaccess.thecvf.com/content_ICCV_2017/papers/Gay_Probabilistic_Structure_From_ICCV_2017_paper.pdf
+3D Pose from Detections,https://arxiv.org/pdf/1502.04754.pdf
+Structure from Motion with Objects,https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Crocco_Structure_From_Motion_CVPR_2016_paper.pdf
+"Lifting 2D object detections to 3D:
+A geometric approach in multiple views",http://www.diegm.uniud.it/fusiello/papers/iciap17a.pdf
+"Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres",https://arxiv.org/pdf/1904.05404.pdf
+Robust 6D Object Pose Estimation with Stochastic Congruent Sets,http://bmvc2018.org/contents/papers/1046.pdf
+3D Object Localisation from Multi-View Image Detections,https://github.com/IIT-PAVIS/LfD
+TartanAir: A Dataset to Push the Limits of Visual SLAM,http://theairlab.org/tartanair-dataset/
+RGB-D Object SLAM Using Quadrics for Indoor Environments,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571184/pdf/sensors-20-05150.pdf
+RGB-D Odometry and SLAM,https://arxiv.org/pdf/2001.06875.pdf
+A2D2: Audi Autonomous Driving Dataset,https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf
+Practical Persistence Reasoning in Visual SLAM,https://ieeexplore.ieee.org/document/9196913
+CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction,https://arxiv.org/pdf/1810.01011.pdf
+CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction,https://arxiv.org/pdf/1704.03489.pdf
+A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds,https://openaccess.thecvf.com/content_cvpr_2018/papers/Birdal_A_Minimalist_Approach_CVPR_2018_paper.pdf
+Camera Relocalization with Ellipsoidal Abstraction of Objects,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8943719&casa_token=w3hsiyGED5wAAAAA:CZBY-0AYrXF-8oDYDXzs1i01SXQPES7Ebe5SXnZyqAzZfwGUXk5N2dc3dCZaI29JWLcDScz3Fw&tag=1
+Camera Pose Estimation with Semantic 3D Model,https://hal.archives-ouvertes.fr/hal-02181962/document
+Generic Primitive Detection in Point Clouds Using Novel Minimal Quadric Fits,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8644023&casa_token=azf_vAH8UlwAAAAA:7xpPbSAU6F59g41KOkC79EzXow-HYmI7s2pvl5JJiin73WldXH5FoLiNFcbvukcsmOHYxMawpA
+Factorization based structure from motion with object priors,https://www.sciencedirect.com/science/article/abs/pii/S1077314217301893
+Scene Understanding with Multi-view Geometry and Semantics,http://cosimorubino.com/paper/thesis.pdf
+A Unified Framework for Piecewise Semantic Reconstruction in Dynamic Scenes via Exploiting Superpixel Relations,http://xiangyangji.com/uploadfile/upload/2020072017390212.pdf
+Representations and Benchmarking of Modern Visual SLAM Systems,https://www.mdpi.com/1424-8220/20/9/2572
+Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors,https://arxiv.org/pdf/1907.09691.pdf
+Semantic Photometric Bundle Adjustment on Natural Sequences,https://arxiv.org/pdf/1712.00110.pdf
+ICRA 2020 notes,https://github.com/moshanATucsd/ICRA-2020-notes
+Visual inertial odometry on a budget,https://riccardogiubilato.github.io/visual/odometry/2017/12/12/Visual-Inertial-Odometry-On-A-Budget.html
+OV2SLAM:A Fully Online and Versatile Visual SLAM for Real-Time Applications,https://arxiv.org/pdf/2102.04060.pdf
+SD-6DoF-ICLK: Sparse and Deep Inverse Compositional Lucas-Kanade Algorithm on SE(3),https://arxiv.org/pdf/2103.16528.pdf
+VINSEval: Evaluation Framework for Unified Testing of Consistency and Robustness of Visual-Inertial Navigation System Algorithms,
+InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset,https://interiornet.org/
+SLAMBench 3.0,
+Optimal Pose and Shape Estimation for Category-level 3D Object Perception,https://arxiv.org/pdf/2104.08383.pdf
+Real-Time Camera Tracking: When is High Frame-Rate Best?,https://link.springer.com/content/pdf/10.1007/978-3-642-33786-4_17.pdf
+Consistent Map-based 3D Localization on Mobile Devices,https://arxiv.org/abs/1604.08087
+Hierarchical Object Map Estimation for Efficient and Robust Navigation,http://groups.csail.mit.edu/rrg/papers/ok_icra21.pdf
+Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation,https://arxiv.org/pdf/2105.07593.pdf
+Resource-aware Online Parameter Adaptation for Computationally-constrained Visual-Inertial Navigation Systems,https://arxiv.org/pdf/2106.00289.pdf
+Schmidt or Compressed filtering for Visual-Inertial SLAM?,https://arxiv.org/pdf/2109.14229.pdf
