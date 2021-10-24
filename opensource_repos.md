@@ -1,0 +1,1 @@
+- [GTSAM Quadrics: quadric landmarks for GTSAM,https://github.com/best-of-acrv/gtsam-quadrics](https://github.com/best-of-acrv/gtsam-quadrics)

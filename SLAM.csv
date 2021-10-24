@@ -112,3 +112,6 @@ Hierarchical Object Map Estimation for Efficient and Robust Navigation,http://gr
 Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation,https://arxiv.org/pdf/2105.07593.pdf
 Resource-aware Online Parameter Adaptation for Computationally-constrained Visual-Inertial Navigation Systems,https://arxiv.org/pdf/2106.00289.pdf
 Schmidt or Compressed filtering for Visual-Inertial SLAM?,https://arxiv.org/pdf/2109.14229.pdf
+From SLAM to Situational Awareness: Challenges and Survey, https://arxiv.org/pdf/2110.00273.pdf
+Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment,https://arxiv.org/pdf/2110.08977.pdf
+Semi-direct Visual Odometry (SVO),https://github.com/uzh-rpg/rpg_svo_pro_open
