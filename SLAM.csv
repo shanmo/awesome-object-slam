@@ -115,3 +115,4 @@ Schmidt or Compressed filtering for Visual-Inertial SLAM?,https://arxiv.org/pdf/
 From SLAM to Situational Awareness: Challenges and Survey, https://arxiv.org/pdf/2110.00273.pdf
 Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment,https://arxiv.org/pdf/2110.08977.pdf
 Semi-direct Visual Odometry (SVO),https://github.com/uzh-rpg/rpg_svo_pro_open
+Graph-based fusion of magnetometer and learned-based inertial odometry,https://www.techrxiv.org/articles/preprint/Graph-based_fusion_of_magnetometer_and_learned-based_inertial_odometry/16823665
