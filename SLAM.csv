@@ -118,3 +118,5 @@ Semi-direct Visual Odometry (SVO),https://github.com/uzh-rpg/rpg_svo_pro_open
 Graph-based fusion of magnetometer and learned-based inertial odometry,https://www.techrxiv.org/articles/preprint/Graph-based_fusion_of_magnetometer_and_learned-based_inertial_odometry/16823665
 Multimotion Visual Odometry (MVO),https://arxiv.org/pdf/2110.15169.pdf
 SP-SLAM: Surfel-Point Simultaneous Localization and Mapping,https://ieeexplore.ieee.org/abstract/document/9591241?casa_token=fgijA823efEAAAAA:NgGM0jGSyvd5B8Qznpv7XHe2Vsnw75Avu2FlGlknaehLRT8OG6pTb1GCm7Y0gSrvhDuAGCjEDg
+Road Mapping and Localization using Sparse Semantic Visual Features,https://arxiv.org/pdf/2108.05047.pdf
+Technical Report FEJ2: A Consistent Visual-Inertial State Estimator Design,http://chuchuchen.net/techreport/fej2.pdf

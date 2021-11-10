@@ -75,3 +75,5 @@ GCNv2: Efficient Correspondence Prediction for Real-Time SLAM,https://arxiv.org/
 Geometric foundations of Deep Learning,https://geometricdeeplearning.com/
 Dive into Deep Learning,https://d2l.ai/
 VoluMon: Weakly-Supervised Volumetric Monocular Estimation with Ellipsoid Representations,https://groups.csail.mit.edu/rrg/papers/liu_ok_iros_2021_camera_ready.pdf
+Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation,https://arxiv.org/pdf/2111.00190.pdf
+Continual Learning of Semantic Segmentation using Complementary 2D-3D Data Representations,https://arxiv.org/pdf/2111.02156.pdf
