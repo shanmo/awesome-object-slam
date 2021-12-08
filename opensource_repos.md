@@ -5,4 +5,11 @@
 | Compositional and Scalable Object SLAM | https://github.com/rpl-cmu/object-slam |   
 |VINS-Mono without ceres|https://github.com/HeYijia/VINS-Course|
 |TSDF++: A Multi-Object Formulation for Dynamic Object Tracking and Reconstruction|https://github.com/ethz-asl/tsdf-plusplus| 
-
+|Contact-Aided Invariant Extended Kalman Filtering for Robot State Estimation|https://github.com/RossHartley/invariant-ekf|
+|xVIO: A Range-Visual-Inertial Odometry Framework|https://github.com/jpl-x/x/wiki/xVIO|
+|KITTI Odometry in Python and OpenCV - Beginner's Guide to Computer Vision|https://github.com/FoamoftheSea/KITTI_visual_odometry|
+|pySLAM v2|https://github.com/luigifreda/pyslam|
+|Stereo VSLAM|https://shangzhouye.tech/featured-projects/stereo_slam/|
+|VIDO-SLAM|https://github.com/bxh1/VIDO-SLAM|
+|DSP-SLAM|https://github.com/JingwenWang95/DSP-SLAM|
+|Bundle Adjustment for Multiple-Object Tracking - a Stereo-based Approach|https://github.com/AnselmC/bamot|
