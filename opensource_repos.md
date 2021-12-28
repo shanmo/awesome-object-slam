@@ -13,3 +13,8 @@
 |VIDO-SLAM|https://github.com/bxh1/VIDO-SLAM|
 |DSP-SLAM|https://github.com/JingwenWang95/DSP-SLAM|
 |Bundle Adjustment for Multiple-Object Tracking - a Stereo-based Approach|https://github.com/AnselmC/bamot|
+|Object Pose Detection and Semantic Mapping|https://github.com/seanbow/object_pose_detection|
+|Dense visual odometry in Python|https://github.com/krrish94/dvo_python|
+|Direct Voxel Grid Optimization|https://github.com/sunset1995/DirectVoxGO|
+|uHumans2 Dataset|https://web.mit.edu/sparklab/datasets/uHumans2/|
+|The Blackbird Dataset: A large-scale dataset for UAV perception in aggressive flight|https://github.com/mit-aera/Blackbird-Dataset|
