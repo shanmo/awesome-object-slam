@@ -52,3 +52,49 @@ Dynamic SLAM: The Need For Speed,https://arxiv.org/pdf/2002.08584.pdf
 "Perspective-2-Ellipsoid: Bridging the Gap Between Object Detections and 6-DoF Camera Pose",https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9127873&casa_token=2Q4Df0JHc24AAAAA:0cgrdvLIO5eZY-dEunOH2Mb9wviRQlhOkXkxDX9WfDAIrM2oV72-8TH5gjQpzzpzQELMQztERg&tag=1
 Probabilistic Structure from Motion with Objects (PSfMO),https://openaccess.thecvf.com/content_ICCV_2017/papers/Gay_Probabilistic_Structure_From_ICCV_2017_paper.pdf
 3D Pose from Detections,https://arxiv.org/pdf/1502.04754.pdf
+Structure from Motion with Objects,https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Crocco_Structure_From_Motion_CVPR_2016_paper.pdf
+"Lifting 2D object detections to 3D: A geometric approach in multiple views",http://www.diegm.uniud.it/fusiello/papers/iciap17a.pdf
+"Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres",https://arxiv.org/pdf/1904.05404.pdf
+Robust 6D Object Pose Estimation with Stochastic Congruent Sets,http://bmvc2018.org/contents/papers/1046.pdf
+3D Object Localisation from Multi-View Image Detections,https://github.com/IIT-PAVIS/LfD
+TartanAir: A Dataset to Push the Limits of Visual SLAM,http://theairlab.org/tartanair-dataset/
+RGB-D Object SLAM Using Quadrics for Indoor Environments,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571184/pdf/sensors-20-05150.pdf
+RGB-D Odometry and SLAM,https://arxiv.org/pdf/2001.06875.pdf
+A2D2: Audi Autonomous Driving Dataset,https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf
+Practical Persistence Reasoning in Visual SLAM,https://ieeexplore.ieee.org/document/9196913
+CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction,https://arxiv.org/pdf/1810.01011.pdf
+CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction,https://arxiv.org/pdf/1704.03489.pdf
+A Minimalist Approach to Type-Agnostic Detection of Quadrics in Point Clouds,https://openaccess.thecvf.com/content_cvpr_2018/papers/Birdal_A_Minimalist_Approach_CVPR_2018_paper.pdf
+Camera Relocalization with Ellipsoidal Abstraction of Objects,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8943719&casa_token=w3hsiyGED5wAAAAA:CZBY-0AYrXF-8oDYDXzs1i01SXQPES7Ebe5SXnZyqAzZfwGUXk5N2dc3dCZaI29JWLcDScz3Fw&tag=1
+Camera Pose Estimation with Semantic 3D Model,https://hal.archives-ouvertes.fr/hal-02181962/document
+Generic Primitive Detection in Point Clouds Using Novel Minimal Quadric Fits,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8644023&casa_token=azf_vAH8UlwAAAAA:7xpPbSAU6F59g41KOkC79EzXow-HYmI7s2pvl5JJiin73WldXH5FoLiNFcbvukcsmOHYxMawpA
+Factorization based structure from motion with object priors,https://www.sciencedirect.com/science/article/abs/pii/S1077314217301893
+Scene Understanding with Multi-view Geometry and Semantics,http://cosimorubino.com/paper/thesis.pdf
+A Unified Framework for Piecewise Semantic Reconstruction in Dynamic Scenes via Exploiting Superpixel Relations,http://xiangyangji.com/uploadfile/upload/2020072017390212.pdf
+Representations and Benchmarking of Modern Visual SLAM Systems,https://www.mdpi.com/1424-8220/20/9/2572
+Deep-SLAM++: Object-level RGBD SLAM based on class-specific deep shape priors,https://arxiv.org/pdf/1907.09691.pdf
+Semantic Photometric Bundle Adjustment on Natural Sequences,https://arxiv.org/pdf/1712.00110.pdf
+ICRA 2020 notes,https://github.com/moshanATucsd/ICRA-2020-notes
+Visual inertial odometry on a budget,https://riccardogiubilato.github.io/visual/odometry/2017/12/12/Visual-Inertial-Odometry-On-A-Budget.html
+OV2SLAM:A Fully Online and Versatile Visual SLAM for Real-Time Applications,https://arxiv.org/pdf/2102.04060.pdf
+SD-6DoF-ICLK: Sparse and Deep Inverse Compositional Lucas-Kanade Algorithm on SE(3),https://arxiv.org/pdf/2103.16528.pdf
+VINSEval: Evaluation Framework for Unified Testing of Consistency and Robustness of Visual-Inertial Navigation System Algorithms,https://github.com/aau-cns/vins_eval_tools
+InteriorNet: Mega-scale Multi-sensor Photo-realistic Indoor Scenes Dataset,https://interiornet.org/
+SLAMBench 3.0,https://github.com/mihaibujanca/slambench3
+Optimal Pose and Shape Estimation for Category-level 3D Object Perception,https://arxiv.org/pdf/2104.08383.pdf
+Real-Time Camera Tracking: When is High Frame-Rate Best?,https://link.springer.com/content/pdf/10.1007/978-3-642-33786-4_17.pdf
+Consistent Map-based 3D Localization on Mobile Devices,https://arxiv.org/abs/1604.08087
+Hierarchical Object Map Estimation for Efficient and Robust Navigation,http://groups.csail.mit.edu/rrg/papers/ok_icra21.pdf
+Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation,https://arxiv.org/pdf/2105.07593.pdf
+Resource-aware Online Parameter Adaptation for Computationally-constrained Visual-Inertial Navigation Systems,https://arxiv.org/pdf/2106.00289.pdf
+Schmidt or Compressed filtering for Visual-Inertial SLAM?,https://arxiv.org/pdf/2109.14229.pdf
+From SLAM to Situational Awareness: Challenges and Survey, https://arxiv.org/pdf/2110.00273.pdf
+Accurate and Robust Object-oriented SLAM with 3D Quadric Landmark Construction in Outdoor Environment,https://arxiv.org/pdf/2110.08977.pdf
+Semi-direct Visual Odometry (SVO),https://github.com/uzh-rpg/rpg_svo_pro_open
+Graph-based fusion of magnetometer and learned-based inertial odometry,https://www.techrxiv.org/articles/preprint/Graph-based_fusion_of_magnetometer_and_learned-based_inertial_odometry/16823665
+Multimotion Visual Odometry (MVO),https://arxiv.org/pdf/2110.15169.pdf
+SP-SLAM: Surfel-Point Simultaneous Localization and Mapping,https://ieeexplore.ieee.org/abstract/document/9591241?casa_token=fgijA823efEAAAAA:NgGM0jGSyvd5B8Qznpv7XHe2Vsnw75Avu2FlGlknaehLRT8OG6pTb1GCm7Y0gSrvhDuAGCjEDg
+Road Mapping and Localization using Sparse Semantic Visual Features,https://arxiv.org/pdf/2108.05047.pdf
+Technical Report FEJ2: A Consistent Visual-Inertial State Estimator Design,http://chuchuchen.net/techreport/fej2.pdf
+Semantic SLAM with Autonomous Object-Level Data Association,https://arxiv.org/pdf/2011.10625.pdf
+Superquadric Object Representation for Optimization-based Semantic SLAM,https://arxiv.org/pdf/2109.09627.pdf
