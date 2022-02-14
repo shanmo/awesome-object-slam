@@ -19,3 +19,4 @@
 |uHumans2 Dataset|https://web.mit.edu/sparklab/datasets/uHumans2/|
 |The Blackbird Dataset: A large-scale dataset for UAV perception in aggressive flight|https://github.com/mit-aera/Blackbird-Dataset|
 |ShapeFormer: Transformer-based Shape Completion via Sparse Representation|https://github.com/qheldiv/shapeformer|
+|HybVIO|https://github.com/SpectacularAI/HybVIO|
