@@ -4,5 +4,6 @@ This repo contains the reading list related to object SLAM, including
 
 - [SLAM related papers](https://github.com/shanmo/awesome-object-slam/blob/main/SLAM.csv) 
 - [Learning related papers](https://github.com/shanmo/awesome-object-slam/blob/main/Learning.csv) 
+- [Trajectory prediction papers](https://github.com/shanmo/awesome-object-slam/blob/main/Trajectory-prediction.csv) 
 - [Open-sourced repos](https://github.com/shanmo/awesome-object-slam/blob/main/opensource_repos.md)
 
