@@ -1,2 +1,8 @@
 ﻿Name,Link
 From Recognition to Prediction: Analysis of Human Action and Trajectory Prediction in Video,https://junweiliang.me/thesis/
+StarNet: Pedestrian Trajectory Prediction using Deep Neural Network in Star Topology,https://arxiv.org/abs/1906.01797
+GAMMA: A General Agent Motion Prediction Model for Autonomous Driving,https://github.com/AdaCompNUS/gamma
+Peeking into the Future: Predicting Future Person Activities and Locations in Videos,https://next.cs.cmu.edu/
+What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction,https://github.com/cschoeller/constant_velocity_pedestrian_motion
+Soft Attention: Does it Actually Help to Learn Social Interactions in Pedestrian Trajectory Prediction?,https://arxiv.org/abs/2106.15321
+RegFlow: Probabilistic Flow-based Regression for Future Prediction,https://arxiv.org/pdf/2011.14620.pdf
