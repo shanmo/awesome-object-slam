@@ -6,3 +6,5 @@ Peeking into the Future: Predicting Future Person Activities and Locations in Vi
 What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction,https://github.com/cschoeller/constant_velocity_pedestrian_motion
 Soft Attention: Does it Actually Help to Learn Social Interactions in Pedestrian Trajectory Prediction?,https://arxiv.org/abs/2106.15321
 RegFlow: Probabilistic Flow-based Regression for Future Prediction,https://arxiv.org/pdf/2011.14620.pdf
+Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes,https://github.com/tdavchev/structured-trajectory-prediction
+Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task,https://arxiv.org/pdf/2203.13608.pdf
