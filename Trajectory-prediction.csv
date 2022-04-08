@@ -8,4 +8,14 @@ Soft Attention: Does it Actually Help to Learn Social Interactions in Pedestrian
 RegFlow: Probabilistic Flow-based Regression for Future Prediction,https://arxiv.org/pdf/2011.14620.pdf
 Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes,https://github.com/tdavchev/structured-trajectory-prediction
 Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task,https://arxiv.org/pdf/2203.13608.pdf
-Multiple Extended Target Tracking with Labelled Random Finite Sets,https://arxiv.org/pdf/1507.07392.pdf
+Structured Bird’s-Eye-View Traffic Scene Understanding from Onboard Images,https://github.com/ybarancan/STSU
+FIERY: Future Instance Segmentation in Bird's-Eye view from Surround Monocular Cameras,https://github.com/wayveai/fiery
+London Bike Ride Forecasting with Graph Convolutional Networks,https://towardsdatascience.com/london-bike-ride-forecasting-with-graph-convolutional-networks-aee044e48131
+Urban Intersection Classification: A Comparative Analysis,https://mdpi-res.com/d_attachment/sensors/sensors-21-06269/article_deploy/sensors-21-06269-v2.pdf
+An online probabilistic road intersection detector,https://ira.disco.unimib.it/research/robotic-perception-research/road-layout-estimation/an-online-probabilistic-road-intersection-detector/intersection-detector/
+Model Guided Road Intersection Classification,https://invett.aut.uah.es/wp-content/publications/conferences/2021/2021_IV_Intersections.pdf
+Probabilistic Models for 3D Urban Scene Understanding from Movable Platforms,http://www.cvlibs.net/publications/Geiger2013.pdf
+3D Urban Scene Understanding,http://www.cvlibs.net/projects/intersection/
+Self-Supervised Road Layout Parsing with Graph Auto-Encoding,https://arxiv.org/pdf/2203.11000.pdf
+Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-View Transformation,https://github.com/JonDoe-297/cross-view
+MonoLayout: Amodal Scene Layout from a single image,https://github.com/hbutsuak95/monolayout 	 
