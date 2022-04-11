@@ -110,3 +110,5 @@ SimVODIS++: Neural Semantic Visual Odometry in Dynamic Environments,https://ieee
 Solving SLAM with variational inference,https://taku-y.github.io/notebook/20170919/slam_advi.html
 Simultaneous Localisation and Mapping with Quadric Surfaces,https://arxiv.org/pdf/2203.08040.pdf
 Multiple Extended Target Tracking with Labelled Random Finite Sets,https://arxiv.org/pdf/1507.07392.pdf
+Sensor Fusion for Self Driving,https://autonomousvision.github.io/transfuser/
+MonoLayout: Amodal Scene Layout from a single image,https://github.com/hbutsuak95/monolayout
