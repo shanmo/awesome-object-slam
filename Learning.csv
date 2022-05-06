@@ -43,29 +43,7 @@ Learning 3D Reconstruction in Function Space (Long Version),https://www.bilibili
 From Points to Multi-Object 3D Reconstruction,https://arxiv.org/pdf/2012.11575.pdf
 DualSDF: Semantic Shape Manipulation using a Two-Level Representation,https://openaccess.thecvf.com/content_CVPR_2020/papers/Hao_DualSDF_Semantic_Shape_Manipulation_Using_a_Two-Level_Representation_CVPR_2020_paper.pdf
 CornerNet-Lite: Efficient Keypoint-Based Object Detection,https://arxiv.org/pdf/1904.08900.pdf
-Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes,https://arxiv.org/pdf/2101.10994.pdf
-DeformSyncNet: Deformation Transfer via Synchronized Shape Deformation Spaces,https://arxiv.org/pdf/2009.01456.pdf
-Deformation-Aware 3D Model Embedding and Retrieval,https://deformscan2cad.github.io/
-Ellipse R-CNN: Learning to Infer Elliptical Object from Clustering and Occlusion,https://arxiv.org/pdf/2001.11584.pdf
-DIST: Rendering Deep Implicit Signed Distance Function with Differentiable Sphere Tracing,http://b1ueber2y.me/projects/DIST-Renderer/
-Category Level Object Pose Estimation via Neural Analysis-by-Synthesis,https://arxiv.org/pdf/2008.08145.pdf
-DeepVoxels: Learning Persistent 3D Feature Embeddings,https://arxiv.org/pdf/1812.01024.pdf
-Differentiable Volume Rendering using Signed Distance Functions,https://dspace.mit.edu/bitstream/handle/1721.1/124253/1145123039-MIT.pdf?sequence=1&isAllowed=y
-Signed Distance Fields for Rigid and Deformable 3D Reconstruction,http://mediatum.ub.tum.de/doc/1445794/654296.pdf
-POINTVOTENET: ACCURATE OBJECT DETECTION AND 6 DOF POSE ESTIMATION IN POINT CLOUDS,https://arxiv.org/pdf/1912.09057.pdf
-SyncSpecCNN: Synchronized Spectral CNN for 3D Shape Segmentation,https://arxiv.org/pdf/1612.00606.pdf
-KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations,https://arxiv.org/pdf/2002.12687.pdf
-Learning deep network for detecting 3D object keypoints and 6D poses,https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Learning_Deep_Network_for_Detecting_3D_Object_Keypoints_and_6D_CVPR_2020_paper.pdf
-Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency,https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Xingyi_Zhou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf
-SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation,
-Unsupervised Learning of Category-Specific Symmetric 3D Keypoints from Point Sets,http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700545.pdf
-PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation,https://arxiv.org/pdf/1911.04231.pdf
-PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection,https://arxiv.org/pdf/1912.13192.pdf
-Iterative Transformer Network for 3D Point Cloud,https://arxiv.org/pdf/1811.11209.pdf
-PCRNet: Point Cloud Registration Network using PointNet Encoding,https://arxiv.org/pdf/1908.07906.pdf
-Learning 3D Shape Completion under Weak Supervision,https://arxiv.org/pdf/1805.07290.pdf
-NEMO: NEURAL MESH MODELS OF CONTRASTIVE FEATURES FOR ROBUST 3D POSE ESTIMATION,https://arxiv.org/pdf/2101.12378.pdf
-Iso-Points: Optimizing Neural Implicit Surfaces with Hybrid Representations,https://arxiv.org/pdf/2012.06434.pdf
+Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes,https://arxiv.org/pdf/2101.134.pdf
 Neural Cages for Detail-Preserving 3D Deformations,https://igl.ethz.ch/projects/neural-cage/06035.pdf
 Local Implicit Grid Representations for 3D Scenes,https://geometry.stanford.edu/papers/jsmhnf-lligrf3s-20/jsmhnf-lligrf3s-20.pdf
 GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/GDR-Net
@@ -93,3 +71,4 @@ Autolabeling 3D Objects With Differentiable Rendering of SDF Shape Priors,https:
 MonoScene: Monocular 3D Semantic Scene Completion,https://cv-rits.github.io/MonoScene/
 Play with Generative Adversarial Networks (GANs) in your browser,https://poloclub.github.io/ganlab/
 Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview,https://arxiv.org/pdf/2105.14291.pdf
+Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets Methods and Challenges,https://boschresearch.github.io/multimodalperception/index.html#introtab
