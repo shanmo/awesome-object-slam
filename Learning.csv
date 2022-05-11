@@ -75,3 +75,4 @@ Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Drivi
 DepthTrack: Unveiling the Power of RGBD Tracking,https://github.com/xiaozai/DeT
 FS6D: Few-Shot 6D Pose Estimation of Novel Objects,https://fs6d.github.io/
 TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers,https://github.com/XuyangBai/TransFusion/
+MTC_RCNN: Multi-Modality Task Cascade for 3D Object Detection,https://github.com/Divadi/MTC_RCNN
