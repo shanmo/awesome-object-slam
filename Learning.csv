@@ -79,3 +79,4 @@ MTC_RCNN: Multi-Modality Task Cascade for 3D Object Detection,https://github.com
 DEFT: Detection Embeddings for Tracking,https://github.com/MedChaabane/DEFT
 Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images,https://arxiv.org/pdf/2006.12250v2.pdf
 Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers,https://arxiv.org/pdf/1804.10975v1.pdf
+Pixel2Mesh++: 3D Mesh Generation and Refinement from Multi-View Images,https://arxiv.org/pdf/2204.09866.pdf
