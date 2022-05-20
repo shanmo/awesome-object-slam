@@ -117,3 +117,4 @@ ODAM: Object Detection Association and Mapping using Posed RGB Video,https://git
 Socially CompliAnt Navigation Dataset (SCAND): A Large-Scale Dataset Of Demonstrations For Social Navigation,https://www.cs.utexas.edu/~xiao/SCAND/SCAND.html
 Exploration with Global Consistency Using Real-Time Re-integration and Active Loop Closure,https://arxiv.org/pdf/2204.02693.pdf
 Track to Reconstruct and Reconstruct to Track,https://github.com/tobiasfshr/MOTSFusion
+A Bayesian Filter for Multi-view 3D Multi-object Tracking with Occlusion Handling,https://arxiv.org/pdf/2001.04118.pdf
