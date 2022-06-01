@@ -85,3 +85,4 @@ GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with 2D-3D Multi-Fea
 Robust Multi-Modality Multi-Object Tracking,https://github.com/ZwwWayne/mmMOT
 DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion with Deep Association,https://github.com/wangxiyang2022/DeepFusionMOT
 RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers,https://arxiv.org/pdf/2203.13296.pdf
+AirObject: A Temporally Evolving Graph Embedding for Object Identification,https://arxiv.org/pdf/2111.15150.pdf
