@@ -88,3 +88,4 @@ RayTran: 3D pose estimation and shape reconstruction of multiple objects from vi
 AirObject: A Temporally Evolving Graph Embedding for Object Identification,https://github.com/Nik-V9/AirObject
 Lifelong Graph Learning,https://github.com/wang-chen/LGL
 LabelEnc: A New Intermediate Supervision Method for Object Detection,https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700528.pdf
+Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation,https://github.com/SHTUPLUS/PySGG
