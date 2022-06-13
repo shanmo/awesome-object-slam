@@ -87,3 +87,4 @@ DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion
 RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers,https://arxiv.org/pdf/2203.13296.pdf
 AirObject: A Temporally Evolving Graph Embedding for Object Identification,https://github.com/Nik-V9/AirObject
 Lifelong Graph Learning,https://github.com/wang-chen/LGL
+LabelEnc: A New Intermediate Supervision Method for Object Detection,https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700528.pdf
