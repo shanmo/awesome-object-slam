@@ -1,4 +1,4 @@
-## Object SLAM paper readling list [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Object SLAM paper reading list [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo contains the reading list related to object SLAM, including
 
