@@ -88,3 +88,4 @@ RayTran: 3D pose estimation and shape reconstruction of multiple objects from vi
 AirObject: A Temporally Evolving Graph Embedding for Object Identification,https://github.com/Nik-V9/AirObject
 TrackFormer: Multi-Object Tracking with Transformers,https://github.com/timmeinhardt/trackformer
 TransTrack: Multiple-Object Tracking with Transformer,https://github.com/PeizeSun/TransTrack
+MOTR: End-to-End Multiple-Object Tracking with Transformer,https://github.com/megvii-model/MOTR
