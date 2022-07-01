@@ -1,0 +1,8 @@
+Name,Link
+BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation,https://github.com/mit-han-lab/bevfusion
+DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries,https://github.com/WangYueFt/detr3d
+Spatiotemporal Transformer Attention Network for 3D Voxel Level Joint Segmentation and Motion Prediction in Point Cloud,https://arxiv.org/pdf/2203.00138.pdf
+BEVFormer: a Cutting-edge Baseline for Camera-based Detection,https://github.com/zhiqi-li/BEVFormer
+BirdNet+: End-to-End 3D Object Detection in LiDAR Bird’s Eye View,https://github.com/AlejandroBarrera/birdnet2
+Center-based 3D Object Detection and Tracking,https://github.com/tianweiy/CenterPoint
+Multimodal Virtual Point 3D Detection,https://github.com/tianweiy/MVP

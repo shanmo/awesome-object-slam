@@ -20,3 +20,4 @@ Self-Supervised Road Layout Parsing with Graph Auto-Encoding,https://arxiv.org/p
 Projecting Your View Attentively: Monocular Road Scene Layout Estimation via Cross-View Transformation,https://github.com/JonDoe-297/cross-view
 MonoLayout: Amodal Scene Layout from a single image,https://github.com/hbutsuak95/monolayout 
 SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction,https://arxiv.org/abs/1903.02793
+S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving,https://proceedings.mlr.press/v157/chen21a/chen21a.pdf
