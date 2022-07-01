@@ -27,3 +27,11 @@ Score refinement for confidence-based 3D multi-object tracking,https://github.co
 TrackFormer: Multi-Object Tracking with Transformers,https://github.com/timmeinhardt/trackformer
 TransTrack: Multiple-Object Tracking with Transformer,https://github.com/PeizeSun/TransTrack
 MOTR: End-to-End Multiple-Object Tracking with Transformer,https://github.com/megvii-model/MOTR
+3D Object Tracking with Transformer,https://www.bmvc2021-virtualconference.com/assets/papers/1445.pdf
+BEV perception with Transformers,https://patrick-llgc.github.io/Learning-Deep-Learning/topic_transformers_bev.html
+大白话用Transformer做BEV 3D object detection,https://zhuanlan.zhihu.com/p/517579299
+M3DETR: Multi-representation Multi-scale Mutual-relation 3D Object Detection with Transformers,https://github.com/rayguan97/M3DETR
+Voxel Transformer for 3D Object Detection,https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.pdf
+Unified Transformer Tracker for Object Tracking,https://github.com/Flowerfan/Trackron
+多目标跟踪,https://github.com/luanshiyinyang/awesome-multiple-object-tracking/blob/master/README-zh.md
+Transformer Tracking,https://github.com/Little-Podi/Transformer_Tracking
