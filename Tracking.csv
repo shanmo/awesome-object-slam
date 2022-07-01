@@ -17,3 +17,5 @@ Perception for Automated Trucking,https://medium.com/ike-blog/perception-for-aut
 Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds,https://arxiv.org/abs/2112.07116
 Position Embedding Transformation for Multi-View 3D Object Detection,https://github.com/megvii-research/PETR
 Geometry-guided Kernel Transformer,https://github.com/hustvl/GKT
+3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection,https://arxiv.org/pdf/2004.12636.pdf
+Deep Continuous Fusion for Multi-Sensor 3D Object Detection,https://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf
