@@ -6,3 +6,12 @@ BEVFormer: a Cutting-edge Baseline for Camera-based Detection,https://github.com
 BirdNet+: End-to-End 3D Object Detection in LiDAR Bird’s Eye View,https://github.com/AlejandroBarrera/birdnet2
 Center-based 3D Object Detection and Tracking,https://github.com/tianweiy/CenterPoint
 Multimodal Virtual Point 3D Detection,https://github.com/tianweiy/MVP
+JackRabbot Dataset and Benchmark (JRDB),https://jrdb.erc.monash.edu/
+JMODT: Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving,https://github.com/Kemo-Huang/JMODT
+You Don't Only Look Once: Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking,https://zju3dv.github.io/UDOLO/
+3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds,https://github.com/fpthink/V2B
+Robust Multi-Modality Multi-Object Tracking,https://github.com/ZwwWayne/mmMOT
+The H3D Dataset for Full-Surround 3D Multi-Object Detection and Tracking in Crowded Urban Scenes,https://arxiv.org/abs/1903.01568
+Monocular BEV Perception with Transformers in Autonomous Driving,https://towardsdatascience.com/monocular-bev-perception-with-transformers-in-autonomous-driving-c41e4a893944
+Perception for Automated Trucking,https://medium.com/ike-blog/perception-for-automated-trucking-c8a8c12e1015
+Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds,https://arxiv.org/abs/2112.07116
