@@ -19,3 +19,8 @@ Position Embedding Transformation for Multi-View 3D Object Detection,https://git
 Geometry-guided Kernel Transformer,https://github.com/hustvl/GKT
 3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection,https://arxiv.org/pdf/2004.12636.pdf
 Deep Continuous Fusion for Multi-Sensor 3D Object Detection,https://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf
+M^2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Bird’s-Eye View Representation,https://nvlabs.github.io/M2BEV/
+CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection,https://github.com/pangsu0613/CLOCs
+Fast-CLOCs: Fast Camera-LiDAR Object Candidates Fusion for 3D Object Detection,https://openaccess.thecvf.com/content/WACV2022/papers/Pang_Fast-CLOCs_Fast_Camera-LiDAR_Object_Candidates_Fusion_for_3D_Object_Detection_WACV_2022_paper.pdf
+3DETR: An End-to-End Transformer Model for 3D Object Detection,https://github.com/facebookresearch/3detr
+Score refinement for confidence-based 3D multi-object tracking,https://github.com/cogsys-tuebingen/CBMOT
