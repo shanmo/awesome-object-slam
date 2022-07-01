@@ -24,3 +24,6 @@ CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection,https://git
 Fast-CLOCs: Fast Camera-LiDAR Object Candidates Fusion for 3D Object Detection,https://openaccess.thecvf.com/content/WACV2022/papers/Pang_Fast-CLOCs_Fast_Camera-LiDAR_Object_Candidates_Fusion_for_3D_Object_Detection_WACV_2022_paper.pdf
 3DETR: An End-to-End Transformer Model for 3D Object Detection,https://github.com/facebookresearch/3detr
 Score refinement for confidence-based 3D multi-object tracking,https://github.com/cogsys-tuebingen/CBMOT
+TrackFormer: Multi-Object Tracking with Transformers,https://github.com/timmeinhardt/trackformer
+TransTrack: Multiple-Object Tracking with Transformer,https://github.com/PeizeSun/TransTrack
+MOTR: End-to-End Multiple-Object Tracking with Transformer,https://github.com/megvii-model/MOTR
