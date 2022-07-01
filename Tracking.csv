@@ -15,3 +15,5 @@ The H3D Dataset for Full-Surround 3D Multi-Object Detection and Tracking in Crow
 Monocular BEV Perception with Transformers in Autonomous Driving,https://towardsdatascience.com/monocular-bev-perception-with-transformers-in-autonomous-driving-c41e4a893944
 Perception for Automated Trucking,https://medium.com/ike-blog/perception-for-automated-trucking-c8a8c12e1015
 Joint 3D Object Detection and Tracking Using Spatio-Temporal Representation of Camera Image and LiDAR Point Clouds,https://arxiv.org/abs/2112.07116
+Position Embedding Transformation for Multi-View 3D Object Detection,https://github.com/megvii-research/PETR
+Geometry-guided Kernel Transformer,https://github.com/hustvl/GKT
