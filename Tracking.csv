@@ -35,3 +35,5 @@ Voxel Transformer for 3D Object Detection,https://openaccess.thecvf.com/content/
 Unified Transformer Tracker for Object Tracking,https://github.com/Flowerfan/Trackron
 多目标跟踪,https://github.com/luanshiyinyang/awesome-multiple-object-tracking/blob/master/README-zh.md
 Transformer Tracking,https://github.com/Little-Podi/Transformer_Tracking
+Boosting 3D Object Detection in Point Clouds with Image Votes,https://github.com/facebookresearch/imvotenet
+Frustum PointNets for 3D Object Detection from RGB-D Data,https://github.com/charlesq34/frustum-pointnets
