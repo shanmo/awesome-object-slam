@@ -21,3 +21,4 @@
 |ShapeFormer: Transformer-based Shape Completion via Sparse Representation|https://github.com/qheldiv/shapeformer|
 |HybVIO|https://github.com/SpectacularAI/HybVIO|
 |Monocular Quasi-Dense 3D Object Tracking|https://eborboihuc.github.io/QD-3DT/|
+|3D-Aware Ellipses for Visual Localization|https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization|
