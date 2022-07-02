@@ -37,3 +37,6 @@ Unified Transformer Tracker for Object Tracking,https://github.com/Flowerfan/Tra
 Transformer Tracking,https://github.com/Little-Podi/Transformer_Tracking
 Boosting 3D Object Detection in Point Clouds with Image Votes,https://github.com/facebookresearch/imvotenet
 Frustum PointNets for 3D Object Detection from RGB-D Data,https://github.com/charlesq34/frustum-pointnets
+PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation,https://arxiv.org/pdf/1711.10871.pdf
+Multi-View 3D Object Detection Network for Autonomous Driving,https://arxiv.org/pdf/1611.07759.pdf
+Joint 3D Proposal Generation and Object Detection from View Aggregation,https://arxiv.org/pdf/1712.02294.pdf
