@@ -47,3 +47,4 @@ Mask DINO: Towards A Unified Transformer-based Framework for Object Detection an
 DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,https://arxiv.org/abs/2203.03605
 Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,https://github.com/djiajunustc/Voxel-R-CNN
 Putting People in their Place: Monocular Regression of 3D People in Depth,https://github.com/Arthur151/ROMP
+TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers,https://github.com/XuyangBai/TransFusion/
