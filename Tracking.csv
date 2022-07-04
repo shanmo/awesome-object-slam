@@ -45,3 +45,5 @@ Traffic4D: Single View Reconstruction of Repetitious Activity Using Longitudinal
 FUTR3D: A Unified Sensor Fusion Framework for 3D Detection,https://arxiv.org/pdf/2203.10642.pdf
 Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,https://arxiv.org/abs/2206.02777
 DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,https://arxiv.org/abs/2203.03605
+Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,https://github.com/djiajunustc/Voxel-R-CNN
+Putting People in their Place: Monocular Regression of 3D People in Depth,https://github.com/Arthur151/ROMP
