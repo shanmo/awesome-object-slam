@@ -87,3 +87,4 @@ DeepFusionMOT: A 3D Multi-Object Tracking Framework Based on Camera-LiDAR Fusion
 RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers,https://arxiv.org/pdf/2203.13296.pdf
 AirObject: A Temporally Evolving Graph Embedding for Object Identification,https://github.com/Nik-V9/AirObject
 Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images,https://github.com/fkluger/cuboids_revisited
+AutoSDF: Shape Priors for 3D Completion Reconstruction and Generation,https://yccyenchicheng.github.io/AutoSDF/
