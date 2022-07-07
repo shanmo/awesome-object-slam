@@ -99,3 +99,5 @@ CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D 
 DeepSDF x Sim(3): Extending DeepSDF for automatic 3D shape retrieval and similarity transform estimation,https://arxiv.org/abs/2004.09048
 Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation,https://github.com/swords123/SSC-6D
 S3K: Self-Supervised Semantic Keypoints for Robotic Manipulation via Multi-View Consistency,https://sites.google.com/view/2020-s3k/home
+Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation,https://sites.google.com/view/centerposetrack
+Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image,https://github.com/NVlabs/CenterPose
