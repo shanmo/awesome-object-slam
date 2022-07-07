@@ -121,3 +121,4 @@ A Bayesian Filter for Multi-view 3D Multi-object Tracking with Occlusion Handlin
 Towards a Robust Back-End for Pose Graph SLAM,https://nikosuenderhauf.github.io/assets/papers/ICRA12-robustSLAM.pdf
 Lifelong SLAM Challenge,https://lifelong-robotic-vision.github.io/competition/SLAM.html
 AirDOS: Dynamic SLAM benefits from Articulated Objects,https://arxiv.org/pdf/2109.09903.pdf
+SDF-SLAM: A Deep Learning Based Highly Accurate SLAM Using Monocular Camera Aiming at Indoor Map Reconstruction With Semantic and Depth Fusion,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9686720
