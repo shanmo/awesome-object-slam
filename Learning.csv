@@ -97,3 +97,4 @@ From Points to Multi-Object 3D Reconstruction,https://openaccess.thecvf.com/cont
 Single-View 3D Object Reconstruction from Shape Priors in Memory,https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Single-View_3D_Object_Reconstruction_From_Shape_Priors_in_Memory_CVPR_2021_paper.pdf
 CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation,https://arxiv.org/pdf/2203.01929.pdf
 DeepSDF x Sim(3): Extending DeepSDF for automatic 3D shape retrieval and similarity transform estimation,https://arxiv.org/abs/2004.09048
+Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation,https://github.com/swords123/SSC-6D
