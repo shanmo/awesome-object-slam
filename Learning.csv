@@ -98,3 +98,4 @@ Single-View 3D Object Reconstruction from Shape Priors in Memory,https://openacc
 CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation,https://arxiv.org/pdf/2203.01929.pdf
 DeepSDF x Sim(3): Extending DeepSDF for automatic 3D shape retrieval and similarity transform estimation,https://arxiv.org/abs/2004.09048
 Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation,https://github.com/swords123/SSC-6D
+S3K: Self-Supervised Semantic Keypoints for Robotic Manipulation via Multi-View Consistency,https://sites.google.com/view/2020-s3k/home
