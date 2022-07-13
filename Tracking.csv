@@ -58,3 +58,4 @@ M3DETR: Multi-representation Multi-scale Mutual-relation 3D Object Detection wit
 Train in Germany Test in The USA: Making 3D Object Detectors Generalize,https://github.com/cxy1997/3D_adapt_auto_driving
 Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation,https://papertalk.org/papertalks/36230
 MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps,https://github.com/pxiangwu/MotionNet
+Exploring Simple 3D Multi-Object Tracking for Autonomous Driving,https://github.com/qcraftai/simtrack
