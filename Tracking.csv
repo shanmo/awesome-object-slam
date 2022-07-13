@@ -60,3 +60,4 @@ Towards Optimal Strategies for Training Self-Driving Perception Models in Simula
 MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps,https://github.com/pxiangwu/MotionNet
 Exploring Simple 3D Multi-Object Tracking for Autonomous Driving,https://github.com/qcraftai/simtrack
 A Simulation-based End-to-End Learning Framework for Evidential Occupancy Grid Mapping,https://github.com/ika-rwth-aachen/EviLOG
+TrackMPNN: A Message Passing Graph Neural Architecture for Multi-Object Tracking,https://github.com/arangesh/TrackMPNN
