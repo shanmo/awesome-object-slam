@@ -65,3 +65,4 @@ BADet: Boundary-Aware 3D Object Detection from Point Clouds,https://github.com/r
 LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector,https://xy-guo.github.io/liga/
 ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection,https://github.com/saic-vul/imvoxelnet
 DetMatch: Two Teachers are Better Than One for Joint 2D and 3D Semi-Supervised Object Detection,https://github.com/Divadi/DetMatch
+WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection,https://github.com/SPengLiang/WeakM3D
