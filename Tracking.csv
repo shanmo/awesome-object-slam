@@ -61,3 +61,4 @@ MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based o
 Exploring Simple 3D Multi-Object Tracking for Autonomous Driving,https://github.com/qcraftai/simtrack
 A Simulation-based End-to-End Learning Framework for Evidential Occupancy Grid Mapping,https://github.com/ika-rwth-aachen/EviLOG
 TrackMPNN: A Message Passing Graph Neural Architecture for Multi-Object Tracking,https://github.com/arangesh/TrackMPNN
+BADet: Boundary-Aware 3D Object Detection from Point Clouds,https://github.com/rui-qian/BANet
