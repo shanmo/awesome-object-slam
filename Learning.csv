@@ -103,3 +103,4 @@ Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Unc
 Single-Stage Keypoint-based Category-level Object Pose Estimation from an RGB Image,https://github.com/NVlabs/CenterPose
 A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification,https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation
 GSNet: Joint Vehicle Pose and Shape Reconstruction with Geometrical and Scene-aware Supervision,https://github.com/lkeab/gsnet
+Meta Sim Learning to Generate Synthetic Datasets,https://nv-tlabs.github.io/meta-sim/
