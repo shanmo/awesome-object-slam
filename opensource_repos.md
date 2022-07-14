@@ -22,3 +22,5 @@
 |HybVIO|https://github.com/SpectacularAI/HybVIO|
 |Monocular Quasi-Dense 3D Object Tracking|https://eborboihuc.github.io/QD-3DT/|
 |3D-Aware Ellipses for Visual Localization|https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization|
+|Semantic 3D Object Detection|https://github.com/alpemek/ais3d|
+|Lyft 3D Object Detection for Autonomous Vehicles|https://github.com/Fkaneko/kaggle-lyft-3d-object-detection-av|
