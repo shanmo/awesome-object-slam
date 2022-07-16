@@ -24,3 +24,4 @@
 |3D-Aware Ellipses for Visual Localization|https://gitlab.inria.fr/tangram/3d-aware-ellipses-for-visual-localization|
 |Semantic 3D Object Detection|https://github.com/alpemek/ais3d|
 |Lyft 3D Object Detection for Autonomous Vehicles|https://github.com/Fkaneko/kaggle-lyft-3d-object-detection-av|
+|AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot|https://github.com/TurtleZhong/AVP-SLAM-SIM|
