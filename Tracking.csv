@@ -79,3 +79,4 @@ MVX-Net: Multimodal VoxelNet for 3D Object Detection,https://github.com/open-mml
 MLCVNet: Multi-Level Context VoteNet for 3D Object Detection,https://github.com/NUAAXQ/MLCVNet
 3DRM: Pair-wise Relation Module for 3D Object Detection,https://github.com/lanlan96/3drm
 Sparse PointPillars: Maintaining and Exploiting Input Sparsity to Improve Runtime on Embedded Systems,https://github.com/kylevedder/SparsePointPillars
+Seeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models,https://github.com/mathieuaubry/seeing3Dchairs
