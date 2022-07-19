@@ -87,3 +87,4 @@ From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and P
 Adversarial Training on Point Clouds for Sim-to-Real 3D Object Detection,http://research.engr.oregonstate.edu/rdml/sites/research.engr.oregonstate.edu.rdml/files/21-0495_03_ms.pdf
 Frustum-PointPillars: A Multi-Stage Approach for 3D Object Detection using RGB Camera and LiDAR,https://github.com/anshulpaigwar/Frustum-Pointpillars
 Transferable Semi-supervised 3D Object Detection from RGB-D Data,https://github.com/yewsiang/Transferable3D
+SESS: Self-Ensembling Semi-Supervised 3D Object Detection,https://github.com/Na-Z/sess
