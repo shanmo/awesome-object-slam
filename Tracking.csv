@@ -77,3 +77,4 @@ Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds,https
 DisARM: Displacement Aware Relation Module for 3D Detection,https://github.com/YaraDuan/DisARM
 MVX-Net: Multimodal VoxelNet for 3D Object Detection,https://github.com/open-mmlab/mmdetection3d/blob/master/configs/mvxnet/README.md
 MLCVNet: Multi-Level Context VoteNet for 3D Object Detection,https://github.com/NUAAXQ/MLCVNet
+3DRM: Pair-wise Relation Module for 3D Object Detection,https://github.com/lanlan96/3drm
