@@ -81,3 +81,4 @@ MLCVNet: Multi-Level Context VoteNet for 3D Object Detection,https://github.com/
 Sparse PointPillars: Maintaining and Exploiting Input Sparsity to Improve Runtime on Embedded Systems,https://github.com/kylevedder/SparsePointPillars
 Seeing 3D chairs: exemplar part-based 2D-3D alignment using a large dataset of CAD models,https://github.com/mathieuaubry/seeing3Dchairs
 Suppress-and-Reﬁne Framework for End-to-End 3D Object Detection,https://github.com/ZJULearning/SRDet
+Radar Voxel Fusion for 3D Object Detection,https://github.com/TUMFTM/RadarVoxelFusionNet
