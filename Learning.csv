@@ -108,3 +108,4 @@ SHIFT: A Synthetic Driving Dataset for Continuous Multi-Task Domain Adaptation,h
 Playing for Data: Ground Truth from Computer Games,https://download.visinf.tu-darmstadt.de/data/from_games/
 Learning 3D Object Shape and Layout without 3D Supervision,https://gkioxari.github.io/usl/
 Memorizing Transformers,https://github.com/lucidrains/memorizing-transformers-pytorch
+Meta-Sampler: Almost Universal yet Task-Oriented Sampling for Point Clouds,https://github.com/ttchengab/MetaSampler
