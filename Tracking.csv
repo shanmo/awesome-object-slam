@@ -92,3 +92,4 @@ Detecting and Mapping Trees in Unstructured Environments with a Stereo Camera an
 Weakly Supervised 3D object detection from Lidar Point Cloud,https://github.com/hlesmqh/WS3D
 3D Spatial Recognition without Spatially Labeled 3D,https://facebookresearch.github.io/WyPR/
 Multimodal 3D Object Detection from Simulated Pretraining,https://arxiv.org/pdf/1905.07754.pdf
+3D Cascade RCNN: High Quality Object Detection in Point Clouds,https://github.com/caiqi/Cascasde-3D
