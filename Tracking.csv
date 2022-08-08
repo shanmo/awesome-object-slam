@@ -107,3 +107,4 @@ Faraway-Frustum: Dealing with LiDAR Sparsity for 3D Object Detection using Fusio
 FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection,https://github.com/weiyithu/FGR
 Temp-FrustNet: 3D Object Detection Using Temporal Fusion,https://github.com/emecercelik/Temp-Frustum-Net
 3D Object Detection for Autonomous Driving: A Review and New Outlooks,https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving
+TransPillars: Coarse-to-Fine Aggregation for Multi-Frame 3D Object Detection,https://arxiv.org/pdf/2208.03141.pdf
