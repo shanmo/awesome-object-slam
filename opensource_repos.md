@@ -26,3 +26,4 @@
 |Lyft 3D Object Detection for Autonomous Vehicles|https://github.com/Fkaneko/kaggle-lyft-3d-object-detection-av|
 |AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot|https://github.com/TurtleZhong/AVP-SLAM-SIM|
 |FIRE Capital One Machine Learning at the University of Maryland|https://github.com/umd-fire-coml|
+|RGB LIDAR Fusion|https://kangkelvin.github.io/16824_RGB_LIDAR_Fusion/|
