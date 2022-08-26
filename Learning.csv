@@ -109,3 +109,4 @@ Playing for Data: Ground Truth from Computer Games,https://download.visinf.tu-da
 Learning 3D Object Shape and Layout without 3D Supervision,https://gkioxari.github.io/usl/
 Memorizing Transformers,https://github.com/lucidrains/memorizing-transformers-pytorch
 Meta-Sampler: Almost Universal yet Task-Oriented Sampling for Point Clouds,https://github.com/ttchengab/MetaSampler
+A Recipe for Training Neural Networks,http://karpathy.github.io/2019/04/25/recipe/
