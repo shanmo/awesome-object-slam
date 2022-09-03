@@ -28,3 +28,4 @@
 |FIRE Capital One Machine Learning at the University of Maryland|https://github.com/umd-fire-coml|
 |RGB LIDAR Fusion|https://kangkelvin.github.io/16824_RGB_LIDAR_Fusion/|
 |3D Bounding Box Estimation Using Deep Learning and Geometry|https://github.com/ahosnyyy/3D-BBox-DL-and-Geometry|
+|mmdetection-mini|https://github.com/hhaAndroid/mmdetection-mini|
