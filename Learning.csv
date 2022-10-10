@@ -1,7 +1,5 @@
 Name,Link
-深度学习实践:计算机视觉,https://book.douban.com/subject/30607940/
 Learning Representations via Graph-structured Networks,https://xiaolonw.github.io/graphnnv2/
-CVPR 2020华人一作包揽最佳论文、最佳学生论文,https://zhuanlan.zhihu.com/p/148875581
 Implicit Geometric Regularization for Learning Shapes,https://arxiv.org/pdf/2002.10099.pdf
 "Implicit Neural Representations with Periodic
 Activation Functions",https://arxiv.org/pdf/2006.09661.pdf
@@ -23,7 +21,6 @@ Alignment",http://erl.ucsd.edu/ref/Feng_CategoryAlignment_IROS20.pdf
 Manifold Learning in Quotient Spaces,https://openaccess.thecvf.com/content_cvpr_2018/papers/Mehr_Manifold_Learning_in_CVPR_2018_paper.pdf
 Generalized Autoencoder for Volumetric Shape Generation,https://openaccess.thecvf.com/content_CVPRW_2020/papers/w17/Guan_Generalized_Autoencoder_for_Volumetric_Shape_Generation_CVPRW_2020_paper.pdf
 SAMP: Shape and Motion Priors for 4D Vehicle Reconstruction,https://www.vision.rwth-aachen.de/media/papers/EngelmannWACV17_x8euNDK.pdf
-深度学习框架PyTorch：入门与实践,https://github.com/chenyuntc/pytorch-book
 YOLOv4: Optimal Speed and Accuracy of Object Detection,https://arxiv.org/abs/2004.10934
 Self6D: Self-Supervised Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/Self6D-Diff-Renderer
 Machine Learning Optimized Systems,https://remziarpacidusseau.wixsite.com/mlos
@@ -114,3 +111,4 @@ Object-Detection Transformers Simplified,https://read.deeplearning.ai/the-batch/
 Language-driven Semantic Segmentation,https://github.com/isl-org/lang-seg
 Tips for Best Training Results,https://github.com/ultralytics/yolov5/wiki/Tips-for-Best-Training-Results
 Black Box Variational Inference,https://arxiv.org/abs/1401.0118
+When Pigs Fly: Contextual Reasoning in Synthetic and Natural Scenes,https://github.com/kreimanlab/WhenPigsFlyContext
