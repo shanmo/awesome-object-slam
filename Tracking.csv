@@ -125,3 +125,4 @@ SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation,https:
 Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection,https://github.com/Divadi/SOLOFusion
 Ellipse R-CNN: Learning to Infer Elliptical Object from Clustering and Occlusion,https://github.com/wdoppenberg/ellipse-rcnn
 MonoGround: Detecting Monocular 3D Objects From the Ground,https://github.com/cfzd/monoground
+Objects Are Different: Flexible Monocular 3D Object Detection,https://github.com/zhangyp15/MonoFlex
