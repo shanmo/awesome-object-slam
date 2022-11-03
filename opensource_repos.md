@@ -30,3 +30,4 @@
 |3D Bounding Box Estimation Using Deep Learning and Geometry|https://github.com/ahosnyyy/3D-BBox-DL-and-Geometry|
 |mmdetection-mini|https://github.com/hhaAndroid/mmdetection-mini|
 |目标检测与跟踪|https://www.zhihu.com/column/c_1480114891122479105|
+|YoloV5-API-Rust|https://github.com/masc-it/yolov5-api-rust|
