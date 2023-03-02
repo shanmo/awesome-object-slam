@@ -139,3 +139,4 @@ Unifying Voxel-based Representation with Transformer for 3D Object Detection,htt
 EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation,https://github.com/tjiiv-cprg/EPro-PnP
 SLAM-Supported Self-Training for 6D Object Pose Estimation,https://github.com/520xyxyzq/slam-super-6d
 Amodal Detection of 3D Objects: Inferring 3D Bounding Boxes from 2D Ones in RGB-Depth Images,https://github.com/phoenixnn/Amodal3Det
+DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment,https://vision.in.tum.de/research/vslam/directtracker
