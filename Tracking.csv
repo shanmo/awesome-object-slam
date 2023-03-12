@@ -141,3 +141,4 @@ SLAM-Supported Self-Training for 6D Object Pose Estimation,https://github.com/52
 Amodal Detection of 3D Objects: Inferring 3D Bounding Boxes from 2D Ones in RGB-Depth Images,https://github.com/phoenixnn/Amodal3Det
 DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment,https://vision.in.tum.de/research/vslam/directtracker
 Accurate and Robust Object SLAM with 3D Quadric Landmark Reconstruction in Outdoor Environment,https://github.com/TianXiaoRui/quadric_slam
+GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation,https://github.com/THU-DA-6D-Pose-Group/GDR-Net
