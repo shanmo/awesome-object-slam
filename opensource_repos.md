@@ -32,3 +32,4 @@
 |目标检测与跟踪|https://www.zhihu.com/column/c_1480114891122479105|
 |YoloV5-API-Rust|https://github.com/masc-it/yolov5-api-rust|
 |YOLO 3D Object Detection for Autonomous Driving Vehicle|https://ruhyadi.github.io/project/computer-vision/yolo3d/|
+|Tensor library for machine learning|https://github.com/ggerganov/ggml|
