@@ -129,3 +129,4 @@ OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM,https://git
 Robust Object-based SLAM for High-speed Autonomous Navigation,https://groups.csail.mit.edu/rrg/papers/OkLiu19icra.pdf
 Awesome Object SLAM,https://github.com/520xyxyzq/awesome-object-SLAM
 Learning Interpretable BEV Based VIO without Deep Neural Networks,https://proceedings.mlr.press/v205/chen23c/chen23c.pdf
+Dynablox: Real-time Detection of Diverse Dynamic Objects in Complex Environments,https://github.com/ethz-asl/dynablox
