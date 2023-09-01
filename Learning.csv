@@ -116,3 +116,4 @@ Video-based 3D Object Detection with Learnable Object-Centric Global Optimizatio
 A library for differentiable nonlinear optimization,https://github.com/facebookresearch/theseus
 OrienterNet: Visual Localization in 2D Public Maps with Neural Matching,https://github.com/facebookresearch/OrienterNet
 Learning to Estimate 3D Object Pose from Synthetic Data,https://mediatum.ub.tum.de/doc/1550255/luwcgb7twcav8fzohxtsqg00v.Diss_Zakharov.pdf
+SDFEst: Categorical Pose and Shape Estimation of Objects from RGB-D using Signed Distance Fields,https://github.com/roym899/sdfest#citation
