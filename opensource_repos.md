@@ -34,3 +34,4 @@
 |YOLO 3D Object Detection for Autonomous Driving Vehicle|https://ruhyadi.github.io/project/computer-vision/yolo3d/|
 |Tensor library for machine learning|https://github.com/ggerganov/ggml|
 |Implementations/tutorials of deep learning papers with side-by-side notes|https://github.com/labmlai/annotated_deep_learning_paper_implementations|
+|SDF-deep-learning|https://github.com/MChaus/SDF-deep-learning|
